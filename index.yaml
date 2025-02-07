@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  syslog-ng:
+  - apiVersion: v1
+    appVersion: 3.27.1
+    created: "2025-02-07T08:53:58.780740247Z"
+    description: Syslog-ng
+    digest: 1062bddea475c91bcb97f4221d8774dea2d39e3c879eac676cde62b951d8cb9d
+    keywords:
+    - Syslog
+    - syslog-ng
+    - logrotate
+    maintainers:
+    - name: zakkg3
+    name: syslog-ng
+    sources:
+    - https://github.com/syslog-ng/syslog-ng
+    urls:
+    - https://avk999.github.io/charts/syslog-ng-0.2.tgz
+    version: "0.2"
+generated: "2025-02-07T08:53:58.780262072Z"
