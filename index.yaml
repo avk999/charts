@@ -3,7 +3,25 @@ entries:
   syslog-ng:
   - apiVersion: v1
     appVersion: 3.27.1
-    created: "2025-02-07T09:46:12.736025195Z"
+    created: "2025-02-07T09:52:40.218504314Z"
+    description: Syslog-ng
+    digest: b6ecea184f8583368d91688d18711559dadfdc066147ce7c8e431ff2b7eedbea
+    keywords:
+    - Syslog
+    - syslog-ng
+    - logrotate
+    maintainers:
+    - name: zakkg
+    - name: avk
+    name: syslog-ng
+    sources:
+    - https://github.com/syslog-ng/syslog-ng
+    urls:
+    - https://avk999.github.io/charts/syslog-ng-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    appVersion: 3.27.1
+    created: "2025-02-07T09:52:40.217684487Z"
     description: Syslog-ng
     digest: 0c8932b6b97dda78118a4dc6c34e0e51267617d1e3171be028fe1d09bc5e84e8
     keywords:
@@ -21,7 +39,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 3.27.1
-    created: "2025-02-07T09:46:12.736437656Z"
+    created: "2025-02-07T09:52:40.21906524Z"
     description: Syslog-ng
     digest: 1062bddea475c91bcb97f4221d8774dea2d39e3c879eac676cde62b951d8cb9d
     keywords:
@@ -36,4 +54,4 @@ entries:
     urls:
     - https://avk999.github.io/charts/syslog-ng-0.2.tgz
     version: "0.2"
-generated: "2025-02-07T09:46:12.735510715Z"
+generated: "2025-02-07T09:52:40.217132796Z"
